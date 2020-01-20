@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/FunWithEnums/bin/Debug/netcoreapp3.0/FunWithEnums
+/home/kiril/Desktop/dotNet/FunWithEnums/bin/Debug/netcoreapp3.0/FunWithEnums.deps.json
+/home/kiril/Desktop/dotNet/FunWithEnums/bin/Debug/netcoreapp3.0/FunWithEnums.runtimeconfig.json
+/home/kiril/Desktop/dotNet/FunWithEnums/bin/Debug/netcoreapp3.0/FunWithEnums.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/FunWithEnums/bin/Debug/netcoreapp3.0/FunWithEnums.dll
+/home/kiril/Desktop/dotNet/FunWithEnums/bin/Debug/netcoreapp3.0/FunWithEnums.pdb
+/home/kiril/Desktop/dotNet/FunWithEnums/obj/Debug/netcoreapp3.0/FunWithEnums.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/FunWithEnums/obj/Debug/netcoreapp3.0/FunWithEnums.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/FunWithEnums/obj/Debug/netcoreapp3.0/FunWithEnums.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/FunWithEnums/obj/Debug/netcoreapp3.0/FunWithEnums.dll
+/home/kiril/Desktop/dotNet/FunWithEnums/obj/Debug/netcoreapp3.0/FunWithEnums.pdb

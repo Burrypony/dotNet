@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/bin/Debug/netcoreapp3.0/RefTypeValTypeParams
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/bin/Debug/netcoreapp3.0/RefTypeValTypeParams.deps.json
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/bin/Debug/netcoreapp3.0/RefTypeValTypeParams.runtimeconfig.json
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/bin/Debug/netcoreapp3.0/RefTypeValTypeParams.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/bin/Debug/netcoreapp3.0/RefTypeValTypeParams.dll
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/bin/Debug/netcoreapp3.0/RefTypeValTypeParams.pdb
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/obj/Debug/netcoreapp3.0/RefTypeValTypeParams.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/obj/Debug/netcoreapp3.0/RefTypeValTypeParams.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/obj/Debug/netcoreapp3.0/RefTypeValTypeParams.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/obj/Debug/netcoreapp3.0/RefTypeValTypeParams.dll
+/home/kiril/Desktop/dotNet/RefTypeValTypeParams/obj/Debug/netcoreapp3.0/RefTypeValTypeParams.pdb

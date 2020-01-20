@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/bin/Debug/netcoreapp3.0/ValueAndReferenceTypes
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/bin/Debug/netcoreapp3.0/ValueAndReferenceTypes.deps.json
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/bin/Debug/netcoreapp3.0/ValueAndReferenceTypes.runtimeconfig.json
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/bin/Debug/netcoreapp3.0/ValueAndReferenceTypes.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/bin/Debug/netcoreapp3.0/ValueAndReferenceTypes.dll
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/bin/Debug/netcoreapp3.0/ValueAndReferenceTypes.pdb
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/obj/Debug/netcoreapp3.0/ValueAndReferenceTypes.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/obj/Debug/netcoreapp3.0/ValueAndReferenceTypes.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/obj/Debug/netcoreapp3.0/ValueAndReferenceTypes.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/obj/Debug/netcoreapp3.0/ValueAndReferenceTypes.dll
+/home/kiril/Desktop/dotNet/ValueAndReferenceTypes/obj/Debug/netcoreapp3.0/ValueAndReferenceTypes.pdb

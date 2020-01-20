@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/BasicDataTypes/bin/Debug/netcoreapp3.0/BasicDataTypes
+/home/kiril/Desktop/dotNet/BasicDataTypes/bin/Debug/netcoreapp3.0/BasicDataTypes.deps.json
+/home/kiril/Desktop/dotNet/BasicDataTypes/bin/Debug/netcoreapp3.0/BasicDataTypes.runtimeconfig.json
+/home/kiril/Desktop/dotNet/BasicDataTypes/bin/Debug/netcoreapp3.0/BasicDataTypes.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/BasicDataTypes/bin/Debug/netcoreapp3.0/BasicDataTypes.dll
+/home/kiril/Desktop/dotNet/BasicDataTypes/bin/Debug/netcoreapp3.0/BasicDataTypes.pdb
+/home/kiril/Desktop/dotNet/BasicDataTypes/obj/Debug/netcoreapp3.0/BasicDataTypes.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/BasicDataTypes/obj/Debug/netcoreapp3.0/BasicDataTypes.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/BasicDataTypes/obj/Debug/netcoreapp3.0/BasicDataTypes.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/BasicDataTypes/obj/Debug/netcoreapp3.0/BasicDataTypes.dll
+/home/kiril/Desktop/dotNet/BasicDataTypes/obj/Debug/netcoreapp3.0/BasicDataTypes.pdb

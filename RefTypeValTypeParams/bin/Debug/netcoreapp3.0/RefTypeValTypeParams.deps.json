@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RefTypeValTypeParams/1.0.0": {
+        "runtime": {
+          "RefTypeValTypeParams.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RefTypeValTypeParams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

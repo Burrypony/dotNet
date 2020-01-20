@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/calculator/bin/Debug/netcoreapp3.0/calculator
+/home/kiril/Desktop/dotNet/calculator/bin/Debug/netcoreapp3.0/calculator.deps.json
+/home/kiril/Desktop/dotNet/calculator/bin/Debug/netcoreapp3.0/calculator.runtimeconfig.json
+/home/kiril/Desktop/dotNet/calculator/bin/Debug/netcoreapp3.0/calculator.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/calculator/bin/Debug/netcoreapp3.0/calculator.dll
+/home/kiril/Desktop/dotNet/calculator/bin/Debug/netcoreapp3.0/calculator.pdb
+/home/kiril/Desktop/dotNet/calculator/obj/Debug/netcoreapp3.0/calculator.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/calculator/obj/Debug/netcoreapp3.0/calculator.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/calculator/obj/Debug/netcoreapp3.0/calculator.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/calculator/obj/Debug/netcoreapp3.0/calculator.dll
+/home/kiril/Desktop/dotNet/calculator/obj/Debug/netcoreapp3.0/calculator.pdb

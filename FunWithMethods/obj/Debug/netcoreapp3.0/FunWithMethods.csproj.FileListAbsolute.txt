@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/FunWithMethods/bin/Debug/netcoreapp3.0/FunWithMethods
+/home/kiril/Desktop/dotNet/FunWithMethods/bin/Debug/netcoreapp3.0/FunWithMethods.deps.json
+/home/kiril/Desktop/dotNet/FunWithMethods/bin/Debug/netcoreapp3.0/FunWithMethods.runtimeconfig.json
+/home/kiril/Desktop/dotNet/FunWithMethods/bin/Debug/netcoreapp3.0/FunWithMethods.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/FunWithMethods/bin/Debug/netcoreapp3.0/FunWithMethods.dll
+/home/kiril/Desktop/dotNet/FunWithMethods/bin/Debug/netcoreapp3.0/FunWithMethods.pdb
+/home/kiril/Desktop/dotNet/FunWithMethods/obj/Debug/netcoreapp3.0/FunWithMethods.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/FunWithMethods/obj/Debug/netcoreapp3.0/FunWithMethods.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/FunWithMethods/obj/Debug/netcoreapp3.0/FunWithMethods.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/FunWithMethods/obj/Debug/netcoreapp3.0/FunWithMethods.dll
+/home/kiril/Desktop/dotNet/FunWithMethods/obj/Debug/netcoreapp3.0/FunWithMethods.pdb

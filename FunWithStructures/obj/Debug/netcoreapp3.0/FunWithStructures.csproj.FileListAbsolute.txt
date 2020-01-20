@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/FunWithStructures/bin/Debug/netcoreapp3.0/FunWithStructures
+/home/kiril/Desktop/dotNet/FunWithStructures/bin/Debug/netcoreapp3.0/FunWithStructures.deps.json
+/home/kiril/Desktop/dotNet/FunWithStructures/bin/Debug/netcoreapp3.0/FunWithStructures.runtimeconfig.json
+/home/kiril/Desktop/dotNet/FunWithStructures/bin/Debug/netcoreapp3.0/FunWithStructures.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/FunWithStructures/bin/Debug/netcoreapp3.0/FunWithStructures.dll
+/home/kiril/Desktop/dotNet/FunWithStructures/bin/Debug/netcoreapp3.0/FunWithStructures.pdb
+/home/kiril/Desktop/dotNet/FunWithStructures/obj/Debug/netcoreapp3.0/FunWithStructures.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/FunWithStructures/obj/Debug/netcoreapp3.0/FunWithStructures.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/FunWithStructures/obj/Debug/netcoreapp3.0/FunWithStructures.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/FunWithStructures/obj/Debug/netcoreapp3.0/FunWithStructures.dll
+/home/kiril/Desktop/dotNet/FunWithStructures/obj/Debug/netcoreapp3.0/FunWithStructures.pdb

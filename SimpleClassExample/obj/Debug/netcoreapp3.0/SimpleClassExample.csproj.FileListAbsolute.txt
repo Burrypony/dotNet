@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/SimpleClassExample/obj/Debug/netcoreapp3.0/SimpleClassExample.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/SimpleClassExample/obj/Debug/netcoreapp3.0/SimpleClassExample.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/SimpleClassExample/obj/Debug/netcoreapp3.0/SimpleClassExample.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/SimpleClassExample/bin/Debug/netcoreapp3.0/SimpleClassExample
+/home/kiril/Desktop/dotNet/SimpleClassExample/bin/Debug/netcoreapp3.0/SimpleClassExample.deps.json
+/home/kiril/Desktop/dotNet/SimpleClassExample/bin/Debug/netcoreapp3.0/SimpleClassExample.runtimeconfig.json
+/home/kiril/Desktop/dotNet/SimpleClassExample/bin/Debug/netcoreapp3.0/SimpleClassExample.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/SimpleClassExample/bin/Debug/netcoreapp3.0/SimpleClassExample.dll
+/home/kiril/Desktop/dotNet/SimpleClassExample/bin/Debug/netcoreapp3.0/SimpleClassExample.pdb
+/home/kiril/Desktop/dotNet/SimpleClassExample/obj/Debug/netcoreapp3.0/SimpleClassExample.dll
+/home/kiril/Desktop/dotNet/SimpleClassExample/obj/Debug/netcoreapp3.0/SimpleClassExample.pdb

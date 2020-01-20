@@ -1,0 +1,3 @@
+/home/kiril/Desktop/dotNet/obj/Debug/netcoreapp3.0/dotNet.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/obj/Debug/netcoreapp3.0/dotNet.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/obj/Debug/netcoreapp3.0/dotNet.AssemblyInfo.cs

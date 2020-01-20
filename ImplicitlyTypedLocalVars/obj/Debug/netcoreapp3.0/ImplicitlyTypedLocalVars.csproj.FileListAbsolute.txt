@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/bin/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/bin/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.deps.json
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/bin/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.runtimeconfig.json
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/bin/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/bin/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.dll
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/bin/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.pdb
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/obj/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/obj/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/obj/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/obj/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.dll
+/home/kiril/Desktop/dotNet/ImplicitlyTypedLocalVars/obj/Debug/netcoreapp3.0/ImplicitlyTypedLocalVars.pdb

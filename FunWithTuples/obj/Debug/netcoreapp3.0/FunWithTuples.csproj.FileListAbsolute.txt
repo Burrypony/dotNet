@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/FunWithTuples/bin/Debug/netcoreapp3.0/FunWithTuples
+/home/kiril/Desktop/dotNet/FunWithTuples/bin/Debug/netcoreapp3.0/FunWithTuples.deps.json
+/home/kiril/Desktop/dotNet/FunWithTuples/bin/Debug/netcoreapp3.0/FunWithTuples.runtimeconfig.json
+/home/kiril/Desktop/dotNet/FunWithTuples/bin/Debug/netcoreapp3.0/FunWithTuples.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/FunWithTuples/bin/Debug/netcoreapp3.0/FunWithTuples.dll
+/home/kiril/Desktop/dotNet/FunWithTuples/bin/Debug/netcoreapp3.0/FunWithTuples.pdb
+/home/kiril/Desktop/dotNet/FunWithTuples/obj/Debug/netcoreapp3.0/FunWithTuples.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/FunWithTuples/obj/Debug/netcoreapp3.0/FunWithTuples.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/FunWithTuples/obj/Debug/netcoreapp3.0/FunWithTuples.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/FunWithTuples/obj/Debug/netcoreapp3.0/FunWithTuples.dll
+/home/kiril/Desktop/dotNet/FunWithTuples/obj/Debug/netcoreapp3.0/FunWithTuples.pdb

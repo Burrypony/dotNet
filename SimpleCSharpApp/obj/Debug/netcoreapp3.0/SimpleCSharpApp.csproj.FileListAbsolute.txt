@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/bin/Debug/netcoreapp3.0/SimpleCSharpApp
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/bin/Debug/netcoreapp3.0/SimpleCSharpApp.deps.json
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/bin/Debug/netcoreapp3.0/SimpleCSharpApp.runtimeconfig.json
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/bin/Debug/netcoreapp3.0/SimpleCSharpApp.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/bin/Debug/netcoreapp3.0/SimpleCSharpApp.dll
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/bin/Debug/netcoreapp3.0/SimpleCSharpApp.pdb
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/obj/Debug/netcoreapp3.0/SimpleCSharpApp.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/obj/Debug/netcoreapp3.0/SimpleCSharpApp.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/obj/Debug/netcoreapp3.0/SimpleCSharpApp.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/obj/Debug/netcoreapp3.0/SimpleCSharpApp.dll
+/home/kiril/Desktop/dotNet/SimpleCSharpApp/obj/Debug/netcoreapp3.0/SimpleCSharpApp.pdb

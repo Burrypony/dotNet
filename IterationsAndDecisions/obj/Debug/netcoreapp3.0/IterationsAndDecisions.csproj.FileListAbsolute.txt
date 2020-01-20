@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/bin/Debug/netcoreapp3.0/IterationsAndDecisions
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/bin/Debug/netcoreapp3.0/IterationsAndDecisions.deps.json
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/bin/Debug/netcoreapp3.0/IterationsAndDecisions.runtimeconfig.json
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/bin/Debug/netcoreapp3.0/IterationsAndDecisions.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/bin/Debug/netcoreapp3.0/IterationsAndDecisions.dll
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/bin/Debug/netcoreapp3.0/IterationsAndDecisions.pdb
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/obj/Debug/netcoreapp3.0/IterationsAndDecisions.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/obj/Debug/netcoreapp3.0/IterationsAndDecisions.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/obj/Debug/netcoreapp3.0/IterationsAndDecisions.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/obj/Debug/netcoreapp3.0/IterationsAndDecisions.dll
+/home/kiril/Desktop/dotNet/IterationsAndDecisions/obj/Debug/netcoreapp3.0/IterationsAndDecisions.pdb

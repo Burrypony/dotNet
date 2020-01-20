@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/BasicConsoleIO/bin/Debug/netcoreapp3.0/BasicConsoleIO
+/home/kiril/Desktop/dotNet/BasicConsoleIO/bin/Debug/netcoreapp3.0/BasicConsoleIO.deps.json
+/home/kiril/Desktop/dotNet/BasicConsoleIO/bin/Debug/netcoreapp3.0/BasicConsoleIO.runtimeconfig.json
+/home/kiril/Desktop/dotNet/BasicConsoleIO/bin/Debug/netcoreapp3.0/BasicConsoleIO.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/BasicConsoleIO/bin/Debug/netcoreapp3.0/BasicConsoleIO.dll
+/home/kiril/Desktop/dotNet/BasicConsoleIO/bin/Debug/netcoreapp3.0/BasicConsoleIO.pdb
+/home/kiril/Desktop/dotNet/BasicConsoleIO/obj/Debug/netcoreapp3.0/BasicConsoleIO.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/BasicConsoleIO/obj/Debug/netcoreapp3.0/BasicConsoleIO.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/BasicConsoleIO/obj/Debug/netcoreapp3.0/BasicConsoleIO.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/BasicConsoleIO/obj/Debug/netcoreapp3.0/BasicConsoleIO.dll
+/home/kiril/Desktop/dotNet/BasicConsoleIO/obj/Debug/netcoreapp3.0/BasicConsoleIO.pdb

@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/FunWithStrings/bin/Debug/netcoreapp3.0/FunWithStrings
+/home/kiril/Desktop/dotNet/FunWithStrings/bin/Debug/netcoreapp3.0/FunWithStrings.deps.json
+/home/kiril/Desktop/dotNet/FunWithStrings/bin/Debug/netcoreapp3.0/FunWithStrings.runtimeconfig.json
+/home/kiril/Desktop/dotNet/FunWithStrings/bin/Debug/netcoreapp3.0/FunWithStrings.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/FunWithStrings/bin/Debug/netcoreapp3.0/FunWithStrings.dll
+/home/kiril/Desktop/dotNet/FunWithStrings/bin/Debug/netcoreapp3.0/FunWithStrings.pdb
+/home/kiril/Desktop/dotNet/FunWithStrings/obj/Debug/netcoreapp3.0/FunWithStrings.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/FunWithStrings/obj/Debug/netcoreapp3.0/FunWithStrings.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/FunWithStrings/obj/Debug/netcoreapp3.0/FunWithStrings.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/FunWithStrings/obj/Debug/netcoreapp3.0/FunWithStrings.dll
+/home/kiril/Desktop/dotNet/FunWithStrings/obj/Debug/netcoreapp3.0/FunWithStrings.pdb

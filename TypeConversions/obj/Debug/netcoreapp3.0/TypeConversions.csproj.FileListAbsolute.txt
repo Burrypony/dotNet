@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/TypeConversions/bin/Debug/netcoreapp3.0/TypeConversions
+/home/kiril/Desktop/dotNet/TypeConversions/bin/Debug/netcoreapp3.0/TypeConversions.deps.json
+/home/kiril/Desktop/dotNet/TypeConversions/bin/Debug/netcoreapp3.0/TypeConversions.runtimeconfig.json
+/home/kiril/Desktop/dotNet/TypeConversions/bin/Debug/netcoreapp3.0/TypeConversions.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/TypeConversions/bin/Debug/netcoreapp3.0/TypeConversions.dll
+/home/kiril/Desktop/dotNet/TypeConversions/bin/Debug/netcoreapp3.0/TypeConversions.pdb
+/home/kiril/Desktop/dotNet/TypeConversions/obj/Debug/netcoreapp3.0/TypeConversions.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/TypeConversions/obj/Debug/netcoreapp3.0/TypeConversions.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/TypeConversions/obj/Debug/netcoreapp3.0/TypeConversions.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/TypeConversions/obj/Debug/netcoreapp3.0/TypeConversions.dll
+/home/kiril/Desktop/dotNet/TypeConversions/obj/Debug/netcoreapp3.0/TypeConversions.pdb

@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/FunwithArrays/bin/Debug/netcoreapp3.0/FunwithArrays
+/home/kiril/Desktop/dotNet/FunwithArrays/bin/Debug/netcoreapp3.0/FunwithArrays.deps.json
+/home/kiril/Desktop/dotNet/FunwithArrays/bin/Debug/netcoreapp3.0/FunwithArrays.runtimeconfig.json
+/home/kiril/Desktop/dotNet/FunwithArrays/bin/Debug/netcoreapp3.0/FunwithArrays.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/FunwithArrays/bin/Debug/netcoreapp3.0/FunwithArrays.dll
+/home/kiril/Desktop/dotNet/FunwithArrays/bin/Debug/netcoreapp3.0/FunwithArrays.pdb
+/home/kiril/Desktop/dotNet/FunwithArrays/obj/Debug/netcoreapp3.0/FunwithArrays.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/FunwithArrays/obj/Debug/netcoreapp3.0/FunwithArrays.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/FunwithArrays/obj/Debug/netcoreapp3.0/FunwithArrays.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/FunwithArrays/obj/Debug/netcoreapp3.0/FunwithArrays.dll
+/home/kiril/Desktop/dotNet/FunwithArrays/obj/Debug/netcoreapp3.0/FunwithArrays.pdb

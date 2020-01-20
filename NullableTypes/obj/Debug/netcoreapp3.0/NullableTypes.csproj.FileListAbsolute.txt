@@ -1,0 +1,11 @@
+/home/kiril/Desktop/dotNet/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes
+/home/kiril/Desktop/dotNet/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.deps.json
+/home/kiril/Desktop/dotNet/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.runtimeconfig.json
+/home/kiril/Desktop/dotNet/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.runtimeconfig.dev.json
+/home/kiril/Desktop/dotNet/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.dll
+/home/kiril/Desktop/dotNet/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.pdb
+/home/kiril/Desktop/dotNet/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.csprojAssemblyReference.cache
+/home/kiril/Desktop/dotNet/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.AssemblyInfoInputs.cache
+/home/kiril/Desktop/dotNet/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.AssemblyInfo.cs
+/home/kiril/Desktop/dotNet/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.dll
+/home/kiril/Desktop/dotNet/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.pdb
